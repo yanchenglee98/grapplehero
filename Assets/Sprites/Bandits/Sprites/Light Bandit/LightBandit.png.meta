@@ -1,0 +1,1622 @@
+fileFormatVersion: 2
+guid: 656bb1043bde2184c94dc3869c64ad3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4934140306522108382
+    second: LightBandit_0
+  - first:
+      213: 199220036092633495
+    second: LightBandit_1
+  - first:
+      213: -3793065437365655120
+    second: LightBandit_2
+  - first:
+      213: 5762447904151190788
+    second: LightBandit_3
+  - first:
+      213: 184462397613601461
+    second: LightBandit_4
+  - first:
+      213: -7734575796892476207
+    second: LightBandit_5
+  - first:
+      213: 5420599328299512162
+    second: LightBandit_6
+  - first:
+      213: -7400165603728366334
+    second: LightBandit_7
+  - first:
+      213: 4707871352329790198
+    second: LightBandit_8
+  - first:
+      213: 4684572714520111212
+    second: LightBandit_9
+  - first:
+      213: -286215300199792668
+    second: LightBandit_10
+  - first:
+      213: 7470045143188182114
+    second: LightBandit_11
+  - first:
+      213: -5291732744143370936
+    second: LightBandit_12
+  - first:
+      213: -5205192690280478187
+    second: LightBandit_13
+  - first:
+      213: -9189121880142249697
+    second: LightBandit_14
+  - first:
+      213: -2275518834047429075
+    second: LightBandit_15
+  - first:
+      213: -432466364012126320
+    second: LightBandit_16
+  - first:
+      213: -6547748350301717452
+    second: LightBandit_17
+  - first:
+      213: -9147449693609385369
+    second: LightBandit_18
+  - first:
+      213: 6389746812270015105
+    second: LightBandit_19
+  - first:
+      213: 6046700340489993513
+    second: LightBandit_20
+  - first:
+      213: 6086905928091726092
+    second: LightBandit_21
+  - first:
+      213: -4059423082674559007
+    second: LightBandit_22
+  - first:
+      213: -8136027096593766814
+    second: LightBandit_23
+  - first:
+      213: -1506778517376254606
+    second: LightBandit_24
+  - first:
+      213: 7879160192275243311
+    second: LightBandit_25
+  - first:
+      213: -1871480182136569439
+    second: LightBandit_26
+  - first:
+      213: 6793143449532246489
+    second: LightBandit_27
+  - first:
+      213: 5357688194466298927
+    second: LightBandit_28
+  - first:
+      213: 787442259200014970
+    second: LightBandit_29
+  - first:
+      213: 4191369675846477462
+    second: LightBandit_30
+  - first:
+      213: 4354214996985446698
+    second: LightBandit_31
+  - first:
+      213: 281259605958427469
+    second: LightBandit_32
+  - first:
+      213: 8329464067899960501
+    second: LightBandit_33
+  - first:
+      213: -6276740940018014436
+    second: LightBandit_34
+  - first:
+      213: 3730428872026013724
+    second: LightBandit_35
+  - first:
+      213: 2179245280149819804
+    second: LightBandit_36
+  - first:
+      213: 925745138558950535
+    second: LightBandit_37
+  - first:
+      213: -3839991153967847469
+    second: LightBandit_38
+  - first:
+      213: -4572465755658663
+    second: LightBandit_39
+  - first:
+      213: -2363364509730244026
+    second: LightBandit_40
+  - first:
+      213: 1733587338993477437
+    second: LightBandit_41
+  - first:
+      213: 1481369252785204119
+    second: LightBandit_42
+  - first:
+      213: 1688539614797321818
+    second: LightBandit_43
+  - first:
+      213: -2551005440307943139
+    second: LightBandit_44
+  - first:
+      213: 2515000640199553534
+    second: LightBandit_45
+  - first:
+      213: 7889326669925190644
+    second: LightBandit_46
+  - first:
+      213: 9069220539026904057
+    second: LightBandit_47
+  - first:
+      213: 399823983364473550
+    second: LightBandit_48
+  - first:
+      213: 8252946668314775596
+    second: LightBandit_49
+  - first:
+      213: 1594733813635961124
+    second: LightBandit_50
+  - first:
+      213: -3731852194467293390
+    second: LightBandit_51
+  - first:
+      213: -2768695659166889664
+    second: LightBandit_52
+  - first:
+      213: -7325043463138634420
+    second: LightBandit_53
+  - first:
+      213: 2731629758644897845
+    second: LightBandit_54
+  - first:
+      213: -2047914298870764691
+    second: LightBandit_55
+  - first:
+      213: 5537053897555415213
+    second: LightBandit_56
+  - first:
+      213: -5002995239584011701
+    second: LightBandit_57
+  - first:
+      213: 1549771193924460538
+    second: LightBandit_58
+  - first:
+      213: -300345351503820836
+    second: LightBandit_59
+  - first:
+      213: 5943513750791333693
+    second: LightBandit_60
+  - first:
+      213: -3890561205343583707
+    second: LightBandit_61
+  - first:
+      213: 3372120223375433505
+    second: LightBandit_62
+  - first:
+      213: 7670472664386681322
+    second: LightBandit_63
+  - first:
+      213: -992103214605274976
+    second: LightBandit_64
+  - first:
+      213: 2899012106247781771
+    second: LightBandit_65
+  - first:
+      213: 6073106494598634744
+    second: LightBandit_66
+  - first:
+      213: -8743054609661956675
+    second: LightBandit_67
+  - first:
+      213: 28958750039931069
+    second: LightBandit_68
+  - first:
+      213: -1721948490342838849
+    second: LightBandit_69
+  - first:
+      213: -1830180182762345600
+    second: LightBandit_70
+  - first:
+      213: 8708371553669767009
+    second: LightBandit_71
+  - first:
+      213: -2220043940138544308
+    second: LightBandit_72
+  - first:
+      213: 5253262858565611867
+    second: LightBandit_73
+  - first:
+      213: -1254294400450371393
+    second: LightBandit_74
+  - first:
+      213: 4486706615666319542
+    second: LightBandit_75
+  - first:
+      213: -2207066425933156453
+    second: LightBandit_76
+  - first:
+      213: 1985022718167916270
+    second: LightBandit_77
+  - first:
+      213: 4790801215784585890
+    second: LightBandit_78
+  - first:
+      213: -630184040609296106
+    second: LightBandit_79
+  - first:
+      213: -9148013330575908077
+    second: LightBandit_80
+  - first:
+      213: -4583325367952321736
+    second: LightBandit_81
+  - first:
+      213: -7523703088287325086
+    second: LightBandit_82
+  - first:
+      213: -2615586796144519361
+    second: LightBandit_83
+  - first:
+      213: -4639651444754769648
+    second: LightBandit_84
+  - first:
+      213: 8409817214144339758
+    second: LightBandit_85
+  - first:
+      213: -3773602807783488053
+    second: LightBandit_86
+  - first:
+      213: -2614099745350183106
+    second: LightBandit_87
+  - first:
+      213: 7264169235629152099
+    second: LightBandit_88
+  - first:
+      213: -2297181334340198502
+    second: LightBandit_89
+  - first:
+      213: -988712234682222428
+    second: LightBandit_90
+  - first:
+      213: 4756794966860979
+    second: LightBandit_91
+  - first:
+      213: -2521537661606644955
+    second: LightBandit_92
+  - first:
+      213: 1321902948568389902
+    second: LightBandit_93
+  - first:
+      213: 6029763012121233173
+    second: LightBandit_94
+  - first:
+      213: -4190524269653162988
+    second: LightBandit_95
+  - first:
+      213: -4316556893868786357
+    second: LightBandit_96
+  - first:
+      213: -651431624614595212
+    second: LightBandit_97
+  - first:
+      213: -6861144529834976798
+    second: LightBandit_98
+  - first:
+      213: -8143384626191372188
+    second: LightBandit_99
+  - first:
+      213: 4463881372160601140
+    second: LightBandit_100
+  - first:
+      213: -3197392992373788731
+    second: LightBandit_101
+  - first:
+      213: 945633921590384622
+    second: LightBandit_102
+  - first:
+      213: -5682026710208803858
+    second: LightBandit_103
+  - first:
+      213: -2316297873144567906
+    second: LightBandit_104
+  - first:
+      213: -8969112616631480608
+    second: LightBandit_105
+  - first:
+      213: 6363172881293894155
+    second: LightBandit_106
+  - first:
+      213: 2977085116531552783
+    second: LightBandit_107
+  - first:
+      213: -3843088346325641444
+    second: LightBandit_108
+  - first:
+      213: -5572625035935283050
+    second: LightBandit_109
+  - first:
+      213: 5859898001654334949
+    second: LightBandit_110
+  - first:
+      213: 3655927177321478896
+    second: LightBandit_111
+  - first:
+      213: 5279707344387350465
+    second: LightBandit_112
+  - first:
+      213: -6288145194875644344
+    second: LightBandit_113
+  - first:
+      213: 8788600727543764610
+    second: LightBandit_114
+  - first:
+      213: -1046469597191649021
+    second: LightBandit_115
+  - first:
+      213: -1453358647343447972
+    second: LightBandit_116
+  - first:
+      213: -4435568880921359047
+    second: LightBandit_117
+  - first:
+      213: -4675757138336332998
+    second: LightBandit_118
+  - first:
+      213: 5110118188792849436
+    second: LightBandit_119
+  - first:
+      213: 7897433358151222464
+    second: LightBandit_120
+  - first:
+      213: -7912238557160431338
+    second: LightBandit_121
+  - first:
+      213: -8029464862445048379
+    second: LightBandit_122
+  - first:
+      213: 7253175533802621310
+    second: LightBandit_123
+  - first:
+      213: -4673227099919632985
+    second: LightBandit_124
+  - first:
+      213: -8912237953611208501
+    second: LightBandit_125
+  - first:
+      213: 1972746824998546936
+    second: LightBandit_126
+  - first:
+      213: 2323459305517900115
+    second: LightBandit_127
+  - first:
+      213: 6042393161517932709
+    second: LightBandit_128
+  - first:
+      213: 6468313922772355341
+    second: LightBandit_129
+  - first:
+      213: -5863750552916602267
+    second: LightBandit_130
+  - first:
+      213: -5769609520992991334
+    second: LightBandit_131
+  - first:
+      213: -5651818198921193299
+    second: LightBandit_132
+  - first:
+      213: -4601907826764062032
+    second: LightBandit_133
+  - first:
+      213: -6621894648158178708
+    second: LightBandit_134
+  - first:
+      213: 2541582212320923205
+    second: LightBandit_135
+  - first:
+      213: -286051744383198338
+    second: LightBandit_136
+  - first:
+      213: -2715130661039189015
+    second: LightBandit_137
+  - first:
+      213: -3641072014229363359
+    second: LightBandit_138
+  - first:
+      213: 2502674083725079916
+    second: LightBandit_139
+  - first:
+      213: 66092674739960437
+    second: LightBandit_140
+  - first:
+      213: 7136617948513303577
+    second: LightBandit_141
+  - first:
+      213: 4696378397107425659
+    second: LightBandit_142
+  - first:
+      213: 1882836287723315759
+    second: LightBandit_143
+  - first:
+      213: -790128573398120608
+    second: LightBandit_144
+  - first:
+      213: 8287597859884313409
+    second: LightBandit_145
+  - first:
+      213: 4704160662538890795
+    second: LightBandit_146
+  - first:
+      213: 351066171425880356
+    second: LightBandit_147
+  - first:
+      213: -7293752708480132551
+    second: LightBandit_148
+  - first:
+      213: 3729845677049654163
+    second: LightBandit_149
+  - first:
+      213: 6480237473698943278
+    second: LightBandit_150
+  - first:
+      213: 4364078247363671469
+    second: LightBandit_151
+  - first:
+      213: 1441237324474797289
+    second: LightBandit_152
+  - first:
+      213: -1998012390825133167
+    second: LightBandit_153
+  - first:
+      213: -1960119786477837363
+    second: LightBandit_154
+  - first:
+      213: -8514728801386745696
+    second: LightBandit_155
+  - first:
+      213: 797307520622162930
+    second: LightBandit_156
+  - first:
+      213: 3008497278054299965
+    second: LightBandit_157
+  - first:
+      213: -6516054676217031345
+    second: LightBandit_158
+  - first:
+      213: 3042727009350190827
+    second: LightBandit_159
+  - first:
+      213: -6091838133079661487
+    second: LightBandit_160
+  - first:
+      213: 194122597737935257
+    second: LightBandit_161
+  - first:
+      213: -1137753271978291123
+    second: LightBandit_162
+  - first:
+      213: -4583913028313404815
+    second: LightBandit_163
+  - first:
+      213: 2718816715533012127
+    second: LightBandit_164
+  - first:
+      213: -1515355849616617520
+    second: LightBandit_165
+  - first:
+      213: -3056071641049309483
+    second: LightBandit_166
+  - first:
+      213: 8939921237791962655
+    second: LightBandit_167
+  - first:
+      213: 7916997349898891148
+    second: LightBandit_168
+  - first:
+      213: -5201982827350609946
+    second: LightBandit_169
+  - first:
+      213: -8834625124746921430
+    second: LightBandit_170
+  - first:
+      213: 2412818037198747219
+    second: LightBandit_171
+  - first:
+      213: -2745584977752366098
+    second: LightBandit_172
+  - first:
+      213: 6465621502051260460
+    second: LightBandit_173
+  - first:
+      213: 7671309732830526827
+    second: LightBandit_174
+  - first:
+      213: -4464528780484805170
+    second: LightBandit_175
+  - first:
+      213: -8749806865408888152
+    second: LightBandit_176
+  - first:
+      213: 8126395874155720796
+    second: LightBandit_177
+  - first:
+      213: -8609952694280037854
+    second: LightBandit_178
+  - first:
+      213: 5977507004657046697
+    second: LightBandit_179
+  - first:
+      213: 8641627169836157526
+    second: LightBandit_180
+  - first:
+      213: 5244803458685523020
+    second: LightBandit_181
+  - first:
+      213: 5081890705360172733
+    second: LightBandit_182
+  - first:
+      213: -25537502762726684
+    second: LightBandit_183
+  - first:
+      213: 172447954940439234
+    second: LightBandit_184
+  - first:
+      213: -2077691456157946008
+    second: LightBandit_185
+  - first:
+      213: -2888466228061372579
+    second: LightBandit_186
+  - first:
+      213: -7439859726851525807
+    second: LightBandit_187
+  - first:
+      213: -7449184644926836596
+    second: LightBandit_188
+  - first:
+      213: 3149200041976913642
+    second: LightBandit_189
+  - first:
+      213: -4154359254642833820
+    second: LightBandit_190
+  - first:
+      213: -3341676341409291138
+    second: LightBandit_191
+  - first:
+      213: -3618663805504078283
+    second: LightBandit_192
+  - first:
+      213: -6475543602828254899
+    second: LightBandit_193
+  - first:
+      213: -6427368848868799861
+    second: LightBandit_194
+  - first:
+      213: 8429785358442079771
+    second: LightBandit_195
+  - first:
+      213: 2483788578917877067
+    second: LightBandit_196
+  - first:
+      213: -1961861871678650723
+    second: LightBandit_197
+  - first:
+      213: 8214834938662808943
+    second: LightBandit_198
+  - first:
+      213: -3763952936154030219
+    second: LightBandit_199
+  - first:
+      213: 6919833283498416780
+    second: LightBandit_200
+  - first:
+      213: -6539879714097382786
+    second: LightBandit_201
+  - first:
+      213: 2631954960648456234
+    second: LightBandit_202
+  - first:
+      213: 1831186543561362091
+    second: LightBandit_203
+  - first:
+      213: -619534202374680638
+    second: LightBandit_204
+  - first:
+      213: -1058043622893460014
+    second: LightBandit_205
+  - first:
+      213: -5457029522532053958
+    second: LightBandit_206
+  - first:
+      213: -2439793853882725661
+    second: LightBandit_207
+  - first:
+      213: 4022980208688621609
+    second: LightBandit_208
+  - first:
+      213: 125941495970556197
+    second: LightBandit_209
+  - first:
+      213: 5060209174504452325
+    second: LightBandit_210
+  - first:
+      213: -303103050986759996
+    second: LightBandit_211
+  - first:
+      213: -8980478192846725422
+    second: LightBandit_212
+  - first:
+      213: 1139662969939756865
+    second: LightBandit_213
+  - first:
+      213: 7467002394119163730
+    second: LightBandit_214
+  - first:
+      213: -2218047754295034022
+    second: LightBandit_215
+  - first:
+      213: -3050309602841911907
+    second: LightBandit_216
+  - first:
+      213: 6643742904698907486
+    second: LightBandit_217
+  - first:
+      213: -3564015014765982961
+    second: LightBandit_218
+  - first:
+      213: 3316217560396020417
+    second: LightBandit_219
+  - first:
+      213: -3597949652796406185
+    second: LightBandit_220
+  - first:
+      213: 611130655069254110
+    second: LightBandit_221
+  - first:
+      213: 5535228557825874476
+    second: LightBandit_222
+  - first:
+      213: -7564142279967347214
+    second: LightBandit_223
+  - first:
+      213: -3047986339955809053
+    second: LightBandit_224
+  - first:
+      213: -8046955789809893364
+    second: LightBandit_225
+  - first:
+      213: 5156154454329717667
+    second: LightBandit_226
+  - first:
+      213: -4792894919666365706
+    second: LightBandit_227
+  - first:
+      213: 1550534132135181814
+    second: LightBandit_228
+  - first:
+      213: -957181192991598313
+    second: LightBandit_229
+  - first:
+      213: 4205232757123222823
+    second: LightBandit_230
+  - first:
+      213: -8308891213021915765
+    second: LightBandit_231
+  - first:
+      213: 759817318778263094
+    second: LightBandit_232
+  - first:
+      213: 6761198117885017722
+    second: LightBandit_233
+  - first:
+      213: 2843669318120869578
+    second: LightBandit_234
+  - first:
+      213: 3727503460207939623
+    second: LightBandit_235
+  - first:
+      213: 8914572742405682141
+    second: LightBandit_236
+  - first:
+      213: 6779869565360649911
+    second: LightBandit_237
+  - first:
+      213: 5044788237119647310
+    second: LightBandit_238
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightBandit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1ff227776997440800000000000000
+      internalID: 4934140306522108382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791217b3195c3c200800000000000000
+      internalID: 199220036092633495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9220cc4135c5bc0800000000000000
+      internalID: -3793065437365655120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d30ab86d358ff40800000000000000
+      internalID: 5762447904151190788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2fc24c2975f8200800000000000000
+      internalID: 184462397613601461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd3e1da4449a490800000000000000
+      internalID: -7734575796892476207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26173099e56d93b40800000000000000
+      internalID: 5420599328299512162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e4b657945d4990800000000000000
+      internalID: -7400165603728366334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2ead33d08b55140800000000000000
+      internalID: 4707871352329790198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68657d5012f20140800000000000000
+      internalID: 4684572714520111212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3f4e63b8270cf0800000000000000
+      internalID: -286215300199792668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641ddfca7eeaa760800000000000000
+      internalID: 7470045143188182114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84508032b1dff86b0800000000000000
+      internalID: -5291732744143370936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4f5493d073c7b0800000000000000
+      internalID: -5205192690280478187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110a58065ea97080800000000000000
+      internalID: -9189121880142249697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2654e83dabbb60e0800000000000000
+      internalID: -2275518834047429075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f90cb12229ff9f0800000000000000
+      internalID: -432466364012126320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbd9d1199b125a0800000000000000
+      internalID: -6547748350301717452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76228ab08fabd0180800000000000000
+      internalID: -9147449693609385369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f9061fd0fca850800000000000000
+      internalID: 6389746812270015105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92db3224ce13ae350800000000000000
+      internalID: 6046700340489993513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01702911b8097450800000000000000
+      internalID: 6086905928091726092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7692cc6380aa7c0800000000000000
+      internalID: -4059423082674559007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26663905676071f80800000000000000
+      internalID: -8136027096593766814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3994fbe8d61be0800000000000000
+      internalID: -1506778517376254606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21e6f40376685d60800000000000000
+      internalID: 7879160192275243311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1019b90ba2706e0800000000000000
+      internalID: -1871480182136569439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d924a9c9f7164e50800000000000000
+      internalID: 6793143449532246489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb770d6055a5a40800000000000000
+      internalID: 5357688194466298927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a7fbc009e8dea00800000000000000
+      internalID: 787442259200014970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6966c2b638cba2a30800000000000000
+      internalID: 4191369675846477462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210ffa58774d6c30800000000000000
+      internalID: 4354214996985446698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4381d61f1c37e300800000000000000
+      internalID: 281259605958427469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcae883073389370800000000000000
+      internalID: 8329464067899960501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c172313ee5984e8a0800000000000000
+      internalID: -6276740940018014436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c8f06b4525c330800000000000000
+      internalID: 3730428872026013724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBandit_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d6c1490c3e3e10800000000000000
+      internalID: 2179245280149819804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

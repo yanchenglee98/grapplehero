@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: b4a27f5171088314183458442e7542b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7140956947682919
+    second: Mage LongIdle_0
+  - first:
+      213: -7596650687091728452
+    second: Mage LongIdle_1
+  - first:
+      213: 6076277172909683785
+    second: Mage LongIdle_2
+  - first:
+      213: 8197719291778815040
+    second: Mage LongIdle_3
+  - first:
+      213: -4083069471387798523
+    second: Mage LongIdle_4
+  - first:
+      213: 8237733244121812151
+    second: Mage LongIdle_5
+  - first:
+      213: 4614253660323486175
+    second: Mage LongIdle_6
+  - first:
+      213: 760792804473541450
+    second: Mage LongIdle_7
+  - first:
+      213: 4031190062138728555
+    second: Mage LongIdle_8
+  - first:
+      213: 5983356139202995732
+    second: Mage LongIdle_9
+  - first:
+      213: -6207563455333575248
+    second: Mage LongIdle_10
+  - first:
+      213: -1177197648429153231
+    second: Mage LongIdle_11
+  - first:
+      213: -8793379293132656782
+    second: Mage LongIdle_12
+  - first:
+      213: -7492103170508757169
+    second: Mage LongIdle_13
+  - first:
+      213: 8162548787294322805
+    second: Mage LongIdle_14
+  - first:
+      213: 343782935893596327
+    second: Mage LongIdle_15
+  - first:
+      213: -4788326147762677795
+    second: Mage LongIdle_16
+  - first:
+      213: 5147846976220933869
+    second: Mage LongIdle_17
+  - first:
+      213: -2362223558585453183
+    second: Mage LongIdle_18
+  - first:
+      213: 6789789725532101427
+    second: Mage LongIdle_19
+  - first:
+      213: -7747324118663340121
+    second: Mage LongIdle_20
+  - first:
+      213: 8936048827726425467
+    second: Mage LongIdle_21
+  - first:
+      213: -4309067084669737486
+    second: Mage LongIdle_22
+  - first:
+      213: -5298261566171857520
+    second: Mage LongIdle_23
+  - first:
+      213: 5827425102881494197
+    second: Mage LongIdle_24
+  - first:
+      213: -4790888948239220921
+    second: Mage LongIdle_25
+  - first:
+      213: 3523147495233464660
+    second: Mage LongIdle_26
+  - first:
+      213: -3847519419704374871
+    second: Mage LongIdle_27
+  - first:
+      213: -1083017780656803673
+    second: Mage LongIdle_28
+  - first:
+      213: -6114682191086258770
+    second: Mage LongIdle_29
+  - first:
+      213: 4464906112713317672
+    second: Mage LongIdle_30
+  - first:
+      213: -4856525040995066688
+    second: Mage LongIdle_31
+  - first:
+      213: 1405690827675234272
+    second: Mage LongIdle_32
+  - first:
+      213: -2548304176643561000
+    second: Mage LongIdle_33
+  - first:
+      213: 1093436725700567385
+    second: Mage LongIdle_34
+  - first:
+      213: -8033513659495084022
+    second: Mage LongIdle_35
+  - first:
+      213: 2174276446494007684
+    second: Mage LongIdle_36
+  - first:
+      213: -486227723483469607
+    second: Mage LongIdle_37
+  - first:
+      213: -5598003103649684649
+    second: Mage LongIdle_38
+  - first:
+      213: -2461467451196035103
+    second: Mage LongIdle_39
+  - first:
+      213: -5697360629811687918
+    second: Mage LongIdle_40
+  - first:
+      213: -7691021352200528928
+    second: Mage LongIdle_41
+  - first:
+      213: 1806351401987193557
+    second: Mage LongIdle_42
+  - first:
+      213: -5770869428645776564
+    second: Mage LongIdle_43
+  - first:
+      213: 2979856555381975902
+    second: Mage LongIdle_44
+  - first:
+      213: 8155371280712257461
+    second: Mage LongIdle_45
+  - first:
+      213: 6777605392483735275
+    second: Mage LongIdle_46
+  - first:
+      213: 134829105722619725
+    second: Mage LongIdle_47
+  - first:
+      213: -7197164872964262400
+    second: Mage LongIdle_48
+  - first:
+      213: -1533190869925145802
+    second: Mage LongIdle_49
+  - first:
+      213: 1007087325152163493
+    second: Mage LongIdle_50
+  - first:
+      213: 7677971906206513640
+    second: Mage LongIdle_51
+  - first:
+      213: 8610050533184891590
+    second: Mage LongIdle_52
+  - first:
+      213: -6990608394375958046
+    second: Mage LongIdle_53
+  - first:
+      213: 542936815737259494
+    second: Mage LongIdle_54
+  - first:
+      213: -1249128779105123036
+    second: Mage LongIdle_55
+  - first:
+      213: 1562046480296786629
+    second: Mage LongIdle_56
+  - first:
+      213: -9023950293798141421
+    second: Mage LongIdle_57
+  - first:
+      213: 2093462932538397072
+    second: Mage LongIdle_58
+  - first:
+      213: 8892125350555261654
+    second: Mage LongIdle_59
+  - first:
+      213: -1635286316165322762
+    second: Mage LongIdle_60
+  - first:
+      213: -5821803909855115736
+    second: Mage LongIdle_61
+  - first:
+      213: 6148315069142378610
+    second: Mage LongIdle_62
+  - first:
+      213: 7844671799797470379
+    second: Mage LongIdle_63
+  - first:
+      213: -4482916700620922875
+    second: Mage LongIdle_64
+  - first:
+      213: -5654278128166505979
+    second: Mage LongIdle_65
+  - first:
+      213: 8980672281176578106
+    second: Mage LongIdle_66
+  - first:
+      213: 6357826842344580452
+    second: Mage LongIdle_67
+  - first:
+      213: 7949690347184748131
+    second: Mage LongIdle_68
+  - first:
+      213: 8005638801798323562
+    second: Mage LongIdle_69
+  - first:
+      213: -732294093228791349
+    second: Mage LongIdle_70
+  - first:
+      213: 3857154867565988411
+    second: Mage LongIdle_71
+  - first:
+      213: 6094459195394160940
+    second: Mage LongIdle_72
+  - first:
+      213: 8552433807958927932
+    second: Mage LongIdle_73
+  - first:
+      213: 8406145547800900138
+    second: Mage LongIdle_74
+  - first:
+      213: 9208138914408731438
+    second: Mage LongIdle_75
+  - first:
+      213: 5544589471062523489
+    second: Mage LongIdle_76
+  - first:
+      213: -5906513085422898101
+    second: Mage LongIdle_77
+  - first:
+      213: -1764639793428719502
+    second: Mage LongIdle_78
+  - first:
+      213: -3446873656930419200
+    second: Mage LongIdle_79
+  - first:
+      213: 7646135045947530284
+    second: Mage LongIdle_80
+  - first:
+      213: 3899840050604639689
+    second: Mage LongIdle_81
+  - first:
+      213: -1608614967607490004
+    second: Mage LongIdle_82
+  - first:
+      213: -3270236519460565006
+    second: Mage LongIdle_83
+  - first:
+      213: -8908871805982099295
+    second: Mage LongIdle_84
+  - first:
+      213: 8214026161089603032
+    second: Mage LongIdle_85
+  - first:
+      213: -8207781823377751677
+    second: Mage LongIdle_86
+  - first:
+      213: -2911904584908053493
+    second: Mage LongIdle_87
+  - first:
+      213: -7391010785327780062
+    second: Mage LongIdle_88
+  - first:
+      213: 494551599173937347
+    second: Mage LongIdle_89
+  - first:
+      213: -5541465442028773419
+    second: Mage LongIdle_90
+  - first:
+      213: -4837229121067756829
+    second: Mage LongIdle_91
+  - first:
+      213: -2451482282685870698
+    second: Mage LongIdle_92
+  - first:
+      213: 2744004741303301979
+    second: Mage LongIdle_93
+  - first:
+      213: -7138300907212237905
+    second: Mage LongIdle_94
+  - first:
+      213: 1673530879713178569
+    second: Mage LongIdle_95
+  - first:
+      213: 8942009409786431990
+    second: Mage LongIdle_96
+  - first:
+      213: 2281323548466993760
+    second: Mage LongIdle_97
+  - first:
+      213: -5384855957349676232
+    second: Mage LongIdle_98
+  - first:
+      213: -961105881186873872
+    second: Mage LongIdle_99
+  - first:
+      213: -8082744759882128013
+    second: Mage LongIdle_100
+  - first:
+      213: 2739770846285273592
+    second: Mage LongIdle_101
+  - first:
+      213: 8120030107647118905
+    second: Mage LongIdle_102
+  - first:
+      213: 7659065244535048515
+    second: Mage LongIdle_103
+  - first:
+      213: 8871166109620526717
+    second: Mage LongIdle_104
+  - first:
+      213: -7476251302623772498
+    second: Mage LongIdle_105
+  - first:
+      213: -5622260729839677187
+    second: Mage LongIdle_106
+  - first:
+      213: 6351889791423288025
+    second: Mage LongIdle_107
+  - first:
+      213: 4711507762787241615
+    second: Mage LongIdle_108
+  - first:
+      213: 426497937779161335
+    second: Mage LongIdle_109
+  - first:
+      213: -7627075198316766991
+    second: Mage LongIdle_110
+  - first:
+      213: 4124637008526544808
+    second: Mage LongIdle_111
+  - first:
+      213: 289779011710050708
+    second: Mage LongIdle_112
+  - first:
+      213: -4101192395315547930
+    second: Mage LongIdle_113
+  - first:
+      213: 802030999642968078
+    second: Mage LongIdle_114
+  - first:
+      213: 2116875604633591808
+    second: Mage LongIdle_115
+  - first:
+      213: -1107010654611188414
+    second: Mage LongIdle_116
+  - first:
+      213: -2094283974659571069
+    second: Mage LongIdle_117
+  - first:
+      213: -7438830087643853338
+    second: Mage LongIdle_118
+  - first:
+      213: -4027925338720279102
+    second: Mage LongIdle_119
+  - first:
+      213: -714045680778560850
+    second: Mage LongIdle_120
+  - first:
+      213: 3286860140490569173
+    second: Mage LongIdle_121
+  - first:
+      213: 8416516328842250656
+    second: Mage LongIdle_122
+  - first:
+      213: -4636354581778528379
+    second: Mage LongIdle_123
+  - first:
+      213: 2108669541886624149
+    second: Mage LongIdle_124
+  - first:
+      213: 6460582314528094013
+    second: Mage LongIdle_125
+  - first:
+      213: 7293949644230144215
+    second: Mage LongIdle_126
+  - first:
+      213: 3928487812966765437
+    second: Mage LongIdle_127
+  - first:
+      213: 9195953224877786054
+    second: Mage LongIdle_128
+  - first:
+      213: -3222447106952359440
+    second: Mage LongIdle_129
+  - first:
+      213: 3876670660055882445
+    second: Mage LongIdle_130
+  - first:
+      213: 4647703960662683673
+    second: Mage LongIdle_131
+  - first:
+      213: -4800807865968470331
+    second: Mage LongIdle_132
+  - first:
+      213: 7187118470057046560
+    second: Mage LongIdle_133
+  - first:
+      213: 2351528237388185629
+    second: Mage LongIdle_134
+  - first:
+      213: 4798277801753729757
+    second: Mage LongIdle_135
+  - first:
+      213: -2529971098180144984
+    second: Mage LongIdle_136
+  - first:
+      213: -1152274776407069872
+    second: Mage LongIdle_137
+  - first:
+      213: 1398390007239337176
+    second: Mage LongIdle_138
+  - first:
+      213: 1813051816794663580
+    second: Mage LongIdle_139
+  - first:
+      213: 5679705943993577379
+    second: Mage LongIdle_140
+  - first:
+      213: -5252599802772065602
+    second: Mage LongIdle_141
+  - first:
+      213: -3198210208061683191
+    second: Mage LongIdle_142
+  - first:
+      213: 7823557835958943734
+    second: Mage LongIdle_143
+  - first:
+      213: 7579581731881062010
+    second: Mage LongIdle_144
+  - first:
+      213: -4921549390403874693
+    second: Mage LongIdle_145
+  - first:
+      213: 7451755906191179949
+    second: Mage LongIdle_146
+  - first:
+      213: 3778820606609540950
+    second: Mage LongIdle_147
+  - first:
+      213: 8164374360181883632
+    second: Mage LongIdle_148
+  - first:
+      213: -4736392292252079670
+    second: Mage LongIdle_149
+  - first:
+      213: -1494014563384914787
+    second: Mage LongIdle_150
+  - first:
+      213: -4230752232432301632
+    second: Mage LongIdle_151
+  - first:
+      213: -4462385471399294621
+    second: Mage LongIdle_152
+  - first:
+      213: -2309237000628539061
+    second: Mage LongIdle_153
+  - first:
+      213: -900577725265787427
+    second: Mage LongIdle_154
+  - first:
+      213: -1906478904285253704
+    second: Mage LongIdle_155
+  - first:
+      213: -3803630232039234110
+    second: Mage LongIdle_156
+  - first:
+      213: -1268699303498682445
+    second: Mage LongIdle_157
+  - first:
+      213: -7438661229997087251
+    second: Mage LongIdle_158
+  - first:
+      213: 6487939802152571316
+    second: Mage LongIdle_159
+  - first:
+      213: 5967755878673706540
+    second: Mage LongIdle_160
+  - first:
+      213: 5850649796467459981
+    second: Mage LongIdle_161
+  - first:
+      213: -4867780846727143008
+    second: Mage LongIdle_162
+  - first:
+      213: 7720839685243206630
+    second: Mage LongIdle_163
+  - first:
+      213: 3488418311510865725
+    second: Mage LongIdle_164
+  - first:
+      213: -4642843402997249981
+    second: Mage LongIdle_165
+  - first:
+      213: 8030463492384018431
+    second: Mage LongIdle_166
+  - first:
+      213: -6760539257328839969
+    second: Mage LongIdle_167
+  - first:
+      213: -5087520275073080730
+    second: Mage LongIdle_168
+  - first:
+      213: -1436512673427864629
+    second: Mage LongIdle_169
+  - first:
+      213: -3377418266945127317
+    second: Mage LongIdle_170
+  - first:
+      213: -6129742686374115214
+    second: Mage LongIdle_171
+  - first:
+      213: 2133565489292092018
+    second: Mage LongIdle_172
+  - first:
+      213: -2987301186461235973
+    second: Mage LongIdle_173
+  - first:
+      213: 13777594249967982
+    second: Mage LongIdle_174
+  - first:
+      213: -985477550491142742
+    second: Mage LongIdle_175
+  - first:
+      213: -6753038493486463654
+    second: Mage LongIdle_176
+  - first:
+      213: 7983036509860017050
+    second: Mage LongIdle_177
+  - first:
+      213: -5964648530945953322
+    second: Mage LongIdle_178
+  - first:
+      213: -4185422839106326080
+    second: Mage LongIdle_179
+  - first:
+      213: -6098912587965691918
+    second: Mage LongIdle_180
+  - first:
+      213: -2528283726890867856
+    second: Mage LongIdle_181
+  - first:
+      213: 2784941166374864611
+    second: Mage LongIdle_182
+  - first:
+      213: 4181285259475379211
+    second: Mage LongIdle_183
+  - first:
+      213: 4525087041073089469
+    second: Mage LongIdle_184
+  - first:
+      213: 1001376556917612036
+    second: Mage LongIdle_185
+  - first:
+      213: -6274266075221065287
+    second: Mage LongIdle_186
+  - first:
+      213: -2644396602002404643
+    second: Mage LongIdle_187
+  - first:
+      213: 4263524916976154394
+    second: Mage LongIdle_188
+  - first:
+      213: 6044226368457934993
+    second: Mage LongIdle_189
+  - first:
+      213: 1116764828752633128
+    second: Mage LongIdle_190
+  - first:
+      213: 5781897291354490451
+    second: Mage LongIdle_191
+  - first:
+      213: 578943755290837029
+    second: Mage LongIdle_192
+  - first:
+      213: 5571165082211378855
+    second: Mage LongIdle_193
+  - first:
+      213: 7973960373468097426
+    second: Mage LongIdle_194
+  - first:
+      213: -3314785539967599931
+    second: Mage LongIdle_195
+  - first:
+      213: 982690169733803089
+    second: Mage LongIdle_196
+  - first:
+      213: -6430804587636232047
+    second: Mage LongIdle_197
+  - first:
+      213: 6042171984252481198
+    second: Mage LongIdle_198
+  - first:
+      213: 2454492165785193901
+    second: Mage LongIdle_199
+  - first:
+      213: 8989705273729234205
+    second: Mage LongIdle_200
+  - first:
+      213: -2547137976750371686
+    second: Mage LongIdle_201
+  - first:
+      213: 7317557092908937019
+    second: Mage LongIdle_202
+  - first:
+      213: -7977984877659900858
+    second: Mage LongIdle_203
+  - first:
+      213: 5351089957899726655
+    second: Mage LongIdle_204
+  - first:
+      213: -476908880919857183
+    second: Mage LongIdle_205
+  - first:
+      213: 5964944624811338725
+    second: Mage LongIdle_206
+  - first:
+      213: 5364396819575445958
+    second: Mage LongIdle_207
+  - first:
+      213: 1614756009943897167
+    second: Mage LongIdle_208
+  - first:
+      213: 8334946032042053878
+    second: Mage LongIdle_209
+  - first:
+      213: -8467371662514454531
+    second: Mage LongIdle_210
+  - first:
+      213: 4760615725057585421
+    second: Mage LongIdle_211
+  - first:
+      213: 712556327220583496
+    second: Mage LongIdle_212
+  - first:
+      213: 2437320801823746162
+    second: Mage LongIdle_213
+  - first:
+      213: 3687894718426541528
+    second: Mage LongIdle_214
+  - first:
+      213: -5666069330000427826
+    second: Mage LongIdle_215
+  - first:
+      213: 4154595166887058640
+    second: Mage LongIdle_216
+  - first:
+      213: 2677951441112789044
+    second: Mage LongIdle_217
+  - first:
+      213: -8730341556966213567
+    second: Mage LongIdle_218
+  - first:
+      213: -6740957128018672591
+    second: Mage LongIdle_219
+  - first:
+      213: -6153899607927790469
+    second: Mage LongIdle_220
+  - first:
+      213: -3919657458867891865
+    second: Mage LongIdle_221
+  - first:
+      213: -6426539688864087997
+    second: Mage LongIdle_222
+  - first:
+      213: -6165195001170578724
+    second: Mage LongIdle_223
+  - first:
+      213: 5734547164074518505
+    second: Mage LongIdle_224
+  - first:
+      213: 3698463566621899682
+    second: Mage LongIdle_225
+  - first:
+      213: 7037228531262159353
+    second: Mage LongIdle_226
+  - first:
+      213: 7178488310959594789
+    second: Mage LongIdle_227
+  - first:
+      213: 1444983926591621497
+    second: Mage LongIdle_228
+  - first:
+      213: 4665503021317596637
+    second: Mage LongIdle_229
+  - first:
+      213: -6813858971304231295
+    second: Mage LongIdle_230
+  - first:
+      213: 4844209510172563289
+    second: Mage LongIdle_231
+  - first:
+      213: -3178518580526794367
+    second: Mage LongIdle_232
+  - first:
+      213: -490468050192974884
+    second: Mage LongIdle_233
+  - first:
+      213: 6415162187232267110
+    second: Mage LongIdle_234
+  - first:
+      213: -2130590888209277377
+    second: Mage LongIdle_235
+  - first:
+      213: 8225310165423387820
+    second: Mage LongIdle_236
+  - first:
+      213: 8874550568218748120
+    second: Mage LongIdle_237
+  - first:
+      213: -6756983848618850338
+    second: Mage LongIdle_238
+  - first:
+      213: 9005505595002268479
+    second: Mage LongIdle_239
+  - first:
+      213: 2731126823463683366
+    second: Mage LongIdle_240
+  - first:
+      213: 4468248873508481223
+    second: Mage LongIdle_241
+  - first:
+      213: -2939508950954496919
+    second: Mage LongIdle_242
+  - first:
+      213: -7261463782292608342
+    second: Mage LongIdle_243
+  - first:
+      213: -6355518415817210705
+    second: Mage LongIdle_244
+  - first:
+      213: -2891989712153118045
+    second: Mage LongIdle_245
+  - first:
+      213: 5230608100934478959
+    second: Mage LongIdle_246
+  - first:
+      213: -2352486362098060680
+    second: Mage LongIdle_247
+  - first:
+      213: -6449605841780937031
+    second: Mage LongIdle_248
+  - first:
+      213: 8127467669023234634
+    second: Mage LongIdle_249
+  - first:
+      213: -7046773872873333411
+    second: Mage LongIdle_250
+  - first:
+      213: -4938150442671676571
+    second: Mage LongIdle_251
+  - first:
+      213: 6790821221791902570
+    second: Mage LongIdle_252
+  - first:
+      213: -7730107881030162895
+    second: Mage LongIdle_253
+  - first:
+      213: -7842397635510670549
+    second: Mage LongIdle_254
+  - first:
+      213: 6157286992382810615
+    second: Mage LongIdle_255
+  - first:
+      213: -4696435890274732565
+    second: Mage LongIdle_256
+  - first:
+      213: -601240262445286808
+    second: Mage LongIdle_257
+  - first:
+      213: -1666285950379332372
+    second: Mage LongIdle_258
+  - first:
+      213: -6515984537974075369
+    second: Mage LongIdle_259
+  - first:
+      213: -2145607543545001923
+    second: Mage LongIdle_260
+  - first:
+      213: 367444108832273287
+    second: Mage LongIdle_261
+  - first:
+      213: 8185971325464808634
+    second: Mage LongIdle_262
+  - first:
+      213: 4816298113185703917
+    second: Mage LongIdle_263
+  - first:
+      213: 1358511212064799660
+    second: Mage LongIdle_264
+  - first:
+      213: 5142075894156364046
+    second: Mage LongIdle_265
+  - first:
+      213: -5849896196182069462
+    second: Mage LongIdle_266
+  - first:
+      213: 6691573765277015285
+    second: Mage LongIdle_267
+  - first:
+      213: -6518022377321303278
+    second: Mage LongIdle_268
+  - first:
+      213: -4544599865275267843
+    second: Mage LongIdle_269
+  - first:
+      213: 2842380944384800758
+    second: Mage LongIdle_270
+  - first:
+      213: 5226768762377712155
+    second: Mage LongIdle_271
+  - first:
+      213: 5048041585603952127
+    second: Mage LongIdle_272
+  - first:
+      213: 6125626405708406138
+    second: Mage LongIdle_273
+  - first:
+      213: 2334934393733995536
+    second: Mage LongIdle_274
+  - first:
+      213: 6335457668611330862
+    second: Mage LongIdle_275
+  - first:
+      213: -5089522200129851262
+    second: Mage LongIdle_276
+  - first:
+      213: -418573132463234600
+    second: Mage LongIdle_277
+  - first:
+      213: -3223624316565252212
+    second: Mage LongIdle_278
+  - first:
+      213: 3687896541362871766
+    second: Mage LongIdle_279
+  - first:
+      213: -2261188765582799418
+    second: Mage LongIdle_280
+  - first:
+      213: 6871646090286541973
+    second: Mage LongIdle_281
+  - first:
+      213: -3596299376949362593
+    second: Mage LongIdle_282
+  - first:
+      213: -2453561664075136449
+    second: Mage LongIdle_283
+  - first:
+      213: -1551750089442579078
+    second: Mage LongIdle_0
+  - first:
+      213: 447168417519783819
+    second: Mage LongIdle_1
+  - first:
+      213: -6624390084660041474
+    second: Mage LongIdle_2
+  - first:
+      213: 3215498489932181560
+    second: Mage LongIdle_3
+  - first:
+      213: -3145678947294304135
+    second: Mage LongIdle_4
+  - first:
+      213: 701144630071886862
+    second: Mage LongIdle_5
+  - first:
+      213: -1672931681433901588
+    second: Mage LongIdle_6
+  - first:
+      213: 875715553127120302
+    second: Mage LongIdle_7
+  - first:
+      213: -3692136595133273472
+    second: Mage LongIdle_8
+  - first:
+      213: -8006168742187952054
+    second: Mage LongIdle_9
+  - first:
+      213: -9138070949898046219
+    second: Mage LongIdle_10
+  - first:
+      213: 7344450198057919538
+    second: Mage LongIdle_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage LongIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e6c56651a6eff0800000000000000
+      internalID: -7140956947682919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf9b29e276439690800000000000000
+      internalID: -7596650687091728452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944b81035e5435450800000000000000
+      internalID: 6076277172909683785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d7d2334624c170800000000000000
+      internalID: 8197719291778815040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50430b4e2f50657c0800000000000000
+      internalID: -4083069471387798523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc8e4a7dbe425270800000000000000
+      internalID: 8237733244121812151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99027b14f190040800000000000000
+      internalID: 4614253660323486175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43915a5601ee8a00800000000000000
+      internalID: 760792804473541450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b602ddbd00aa1f730800000000000000
+      internalID: 4031190062138728555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e8d915b6290350800000000000000
+      internalID: 5983356139202995732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5552c2ded4ad9a0800000000000000
+      internalID: -6207563455333575248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage LongIdle_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13484fec9f0c9afe0800000000000000
+      internalID: -1177197648429153231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
