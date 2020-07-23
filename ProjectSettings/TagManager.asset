@@ -13,6 +13,7 @@ TagManager:
   - Can Interact
   - Ungrappable
   - Ground
+  - Can Fall
   layers:
   - Default
   - TransparentFX
@@ -27,7 +28,7 @@ TagManager:
   - Grappling Hook
   - Collectibles
   - Animals
-  - 
+  - Obstacle
   - 
   - 
   - 

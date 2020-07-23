@@ -11,6 +11,9 @@ public class BossWeapon : MonoBehaviour
     public float attackRange = 1f;
     public LayerMask attackMask;
 
+    public Transform firePoint;
+    public Fireball fireball;
+
     public void Attack()
     {
         Vector3 pos = transform.position;
@@ -22,6 +25,11 @@ public class BossWeapon : MonoBehaviour
         {
             colInfo.GetComponent<PlayerHealth>().TakeDamage(attackDamage);
         }
+    }
+
+    public void Shoot()
+    {
+        Instantiate(fireball, firePoint.position, firePoint.rotation);
     }
 
     public void EnragedAttack()

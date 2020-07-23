@@ -122,3 +122,27 @@ MonoBehaviour:
     pitch: 1
     loop: 0
     source: {fileID: 0}
+  - name: Splash
+    clip: {fileID: 8300000, guid: 85621fe77e6100f42ab49a82be3fa809, type: 3}
+    volume: 0.564
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Rockslide
+    clip: {fileID: 8300000, guid: cdd553fdff9b4d040a5e878fe555452d, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Warp
+    clip: {fileID: 8300000, guid: d402bd38e3596844e9fe4c73f7392c41, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Crumble
+    clip: {fileID: 8300000, guid: f073ad9d3858868458c36b3ed0469af1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}

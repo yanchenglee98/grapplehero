@@ -95,6 +95,8 @@ public class RopeScript : MonoBehaviour { // can think of this script as the "bu
 
 		GameObject go = (GameObject) Instantiate(nodePrefab, pos2Create, Quaternion.identity);
 
+		go.tag = "Grappling Hook";
+
 		go.transform.SetParent (transform);
 
 		lastNode.GetComponent<HingeJoint2D>().connectedBody = go.GetComponent<Rigidbody2D>();
@@ -113,6 +115,7 @@ public class RopeScript : MonoBehaviour { // can think of this script as the "bu
 
     private void OnTriggerEnter2D(Collider2D hitInfo)
     {
+		Debug.Log(hitInfo.name);
 		Enemy1 enemy = hitInfo.GetComponent<Enemy1>();
 		if (enemy != null)
         {
@@ -149,9 +152,17 @@ public class RopeScript : MonoBehaviour { // can think of this script as the "bu
 
 		}
 
-		if (hitInfo.gameObject.tag == "Collectibles")
+		if (hitInfo.gameObject.tag == "Collectibles" || hitInfo.gameObject.tag == "Enemy")
         {
 			Invoke("resetRope", 0.1f);
+
+		}
+
+		if (hitInfo.gameObject.tag == "Can Fall")
+		{
+/*			transform.position = Vector2.MoveTowards(transform.position, hitInfo.gameObject.GetComponent<Transform>().position, 10);
+			Debug.Log(transform.position);*/
+			Invoke("resetRope", hitInfo.gameObject.GetComponent<FallingRock>().timeb4Fall + 0.1f);
 
 		}
 

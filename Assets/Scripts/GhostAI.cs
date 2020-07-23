@@ -45,6 +45,7 @@ public class GhostAI : Enemy1
     public override void Die()
     {
         //GameObject bs = Instantiate(bloodstain, transform.position, Quaternion.identity);
+        AudioManager.instance.Play("Warp");
         Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
         //Destroy(bs, bloodlifetime);

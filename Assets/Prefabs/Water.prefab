@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 5448571196816417018}
   - component: {fileID: 5448571196816417021}
   - component: {fileID: 4222968550116903145}
+  - component: {fileID: 4988621340996110631}
   m_Layer: 8
   m_Name: Water
   m_TagString: Background
@@ -328,3 +329,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &4988621340996110631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5448571196816416961}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 413d6188fc1dc12479b8bf4a47f0c199, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

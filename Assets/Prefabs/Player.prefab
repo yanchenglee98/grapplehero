@@ -391,7 +391,7 @@ MonoBehaviour:
   m_AirControl: 1
   m_WhatIsGround:
     serializedVersion: 2
-    m_Bits: 55
+    m_Bits: 51
   m_GroundCheck: {fileID: 5077483069740164725}
   m_CeilingCheck: {fileID: 5077483070458460221}
   m_CrouchDisableCollider: {fileID: 5077483069767608987}
@@ -458,6 +458,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 2049
   boostForce: 1000
+  airBoostForce: 1000
   offset: -90
   m_Rigidbody2D: {fileID: 5077483069767608988}
   canJump: 0

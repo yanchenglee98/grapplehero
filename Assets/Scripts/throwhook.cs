@@ -58,7 +58,7 @@ public class throwhook : MonoBehaviour // can think of this script as the "weapo
                // RaycastHit2D hit = Physics2D.Raycast(destiny, Vector2.zero);
                 RaycastHit2D hit = Physics2D.Raycast(transform.position, destiny - (Vector2)transform.position, ropeLength, grappleMask); // shoot raycast from player to destiny of length ropeLength
                 //Debug.Log(hit.collider != null ? hit.collider.transform.tag: "nothing");
-                if (hit.collider != null) //&& hit.collider.transform.tag != "Ungrappable")
+                if (hit.collider != null && hit.collider.transform.tag != "Ungrappable")
                 {
                     AudioManager.instance.Play("HookHit");
                     //curHook = (GameObject)Instantiate(hook, transform.position, Quaternion.identity);
