@@ -132,4 +132,13 @@ Our target demographic would be the **generation Z young adults**, especially NU
 
 * **Git, GitHub, Unity Collab:** version control systems
 
+## Technical Proof of concept
 
+* https://github.com/BigDoot/GrappleHero
+
+* Check out our [v1.2 release](https://github.com/BigDoot/GrappleHero/releases/tag/v1.2) of the game! Follow the instructions in the link to try out the game for yourself!
+
+* [Gameplay Video and Tutorial level walkthrough](https://drive.google.com/file/d/1A5YTXAmSHfZV8AeNW3CJJ9Dg0na_HZ9r/view?usp=sharing)
+
+* Additional Source code control: Unity Collab Project Timeline 
+  *Due to privacy, only users within the project are able to view the commits, do approach one of us if you would like to view it.
