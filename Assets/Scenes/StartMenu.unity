@@ -30164,6 +30164,6 @@ PrefabInstance:
         type: 3}
       propertyPath: UIElements
       value: 
-      objectReference: {fileID: 2113727786}
+      objectReference: {fileID: 693595386}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d48c07a63f1a583468b9ee29f3783e69, type: 3}

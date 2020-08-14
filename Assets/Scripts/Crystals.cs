@@ -8,6 +8,7 @@ public class Crystals : MonoBehaviour
 
     private PlayerMovement player;
     private throwhook throwHook;
+    private bool collected = false;
 
     void Start()
     {
@@ -23,16 +24,24 @@ public class Crystals : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            AudioManager.instance.Play("Collect");
-            Destroy(gameObject);
-            player.crystals++;
+            if (!collected)
+            {
+                collected = true;
+                AudioManager.instance.Play("Collect");
+                Destroy(gameObject);
+                player.crystals++;
+            }
         }
          else if (other.tag == "Grappling Hook")
         {
-            AudioManager.instance.Play("Collect");
-            Destroy(gameObject);
-            player.crystals++;
-            //throwHook.resetRope();
+            if (!collected)
+            {
+                collected = true;
+                AudioManager.instance.Play("Collect");
+                Destroy(gameObject);
+                player.crystals++;
+                //throwHook.resetRope();
+            }
         }
     }
 }

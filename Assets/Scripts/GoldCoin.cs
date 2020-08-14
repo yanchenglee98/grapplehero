@@ -6,6 +6,7 @@ public class GoldCoin : MonoBehaviour
 {
     private PlayerMovement player;
     private throwhook throwHook;
+    private bool collected = false;
 
     void Start()
     {
@@ -21,17 +22,25 @@ public class GoldCoin : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            AudioManager.instance.Play("Coin");
-            Destroy(gameObject);
-            player.goldCoins++;
+            if (!collected)
+            {
+                collected = true;
+                AudioManager.instance.Play("Coin");
+                Destroy(gameObject);
+                player.goldCoins++;
+            }
         }
         else if (other.tag == "Grappling Hook")
         {
-            AudioManager.instance.Play("Coin");
-            Destroy(gameObject);
-            player.goldCoins++;
-            //Destroy(throwHook.curHook);
-            //throwHook.ropeActive = false;
+            if (!collected)
+            {
+                collected = true;
+                AudioManager.instance.Play("Coin");
+                Destroy(gameObject);
+                player.goldCoins++;
+                //Destroy(throwHook.curHook);
+                //throwHook.ropeActive = false;
+            }
         }
     }
 }

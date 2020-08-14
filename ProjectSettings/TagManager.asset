@@ -14,6 +14,7 @@ TagManager:
   - Ungrappable
   - Ground
   - Can Fall
+  - Bat
   layers:
   - Default
   - TransparentFX

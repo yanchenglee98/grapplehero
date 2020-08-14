@@ -115,7 +115,7 @@ public class RopeScript : MonoBehaviour { // can think of this script as the "bu
 
     private void OnTriggerEnter2D(Collider2D hitInfo)
     {
-		Debug.Log(hitInfo.name);
+		//Debug.Log(hitInfo.name);
 		Enemy1 enemy = hitInfo.GetComponent<Enemy1>();
 		if (enemy != null)
         {
@@ -152,7 +152,7 @@ public class RopeScript : MonoBehaviour { // can think of this script as the "bu
 
 		}
 
-		if (hitInfo.gameObject.tag == "Collectibles" || hitInfo.gameObject.tag == "Enemy")
+		if (hitInfo.gameObject.tag == "Collectibles" || hitInfo.gameObject.tag == "Enemy" || hitInfo.gameObject.tag == "Bat")
         {
 			Invoke("resetRope", 0.1f);
 
